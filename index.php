@@ -1,7 +1,7 @@
 <?php
 $city = ucfirst($_GET['city']);
 if (!$city) {
-    $city = "India";
+    $city = "Delhi";
 }
 ?>
 <!DOCTYPE html>
@@ -13,14 +13,13 @@ if (!$city) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>5 Best Packers and Movers in <?php echo $city; ?> (Feb 2023) - Asknavigator</title>
+    <title>5 Best Packers and Movers in <?php echo $city; ?> (Feb 2023) - Packers Movers</title>
     <meta name="Title" content="5 Trusted & Best Packers and Movers in India (Feb 2023)" />
     <meta name="description" content="(Reviewed on 04 Feb 2023) 5 Trusted & Safe Packers and Movers in India. Get Price Estimation from 100% Verified & affordable packers movers near India" />
     <meta property="og:description" content="(Reviewed on 04 Feb 2023) 5 Trusted & Safe Packers and Movers in India. Get Price Estimation from 100% Verified & affordable packers movers near India" />
     <meta name="keywords" content="List of Packers And Movers in India,Packers And Movers, Packers And Movers India,Best Packers And Movers near India" />
-    <meta property="og:url" content="https://asknavigator.in/" />
-    <meta property="al:ios:url" content="asknavigator.in/" />
-    <meta property="og:image" content="https://asknavigator.in/images/logo.png" />
+    <meta property="og:url" content="https://packers-movers.xyz/" />
+    <meta property="al:ios:url" content="https://packers-movers.xyz/" />
 
     <link rel="preload" href="css/style.css?v1.3" as="style">
     <link rel="preload" href="fonts/Proxima-Nova-Black.otf" as="font" type="font/otf" crossorigin>
@@ -39,7 +38,7 @@ if (!$city) {
 
   
     <!-- ======== preloder script ======== -->
-    <link rel="preload" as="script" href="https://api.asknavigator.com/mailer/handler.js?v=0.0.6" />
+    <!-- <link rel="preload" as="script" href="https://api.asknavigator.com/mailer/handler.js?v=0.0.6" /> -->
     <link rel="preload" as="script" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js" />
  
  
@@ -68,7 +67,7 @@ if (!$city) {
 
     <link rel="stylesheet" href="css/style.css?v1.3">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
-    <link rel="canonical" href="https://asknavigator.in/" />
+    <!-- <link rel="canonical" href="https://asknavigator.in/" /> -->
     <meta name="robots" content="noindex">
 
     <!-- Google tag (gtag.js) -->
@@ -1029,7 +1028,7 @@ if (!$city) {
                                             </div>
                                             <ul class="tabs-box">
                                                 <li class="tab active">
-                                                    <a href="https://asknavigator.in/packers-and-movers/bangalore" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/bengaluru.webp" alt="bangalore png">
                                                         </div>
@@ -1039,7 +1038,7 @@ if (!$city) {
                                                 </li>
 
                                                 <li class="tab ">
-                                                    <a href="https://asknavigator.in/packers-and-movers/delhi" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/delhi.webp" alt="delhi png">
                                                         </div>
@@ -1049,7 +1048,7 @@ if (!$city) {
                                                 </li>
 
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/mumbai" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/Mumbai.webp" alt="mumbai png">
                                                         </div>
@@ -1059,7 +1058,7 @@ if (!$city) {
                                                 </li>
 
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/noida" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/noida.webp" alt="noida png">
                                                         </div>
@@ -1069,7 +1068,7 @@ if (!$city) {
                                                 </li>
 
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/faridabad" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/faridabd.png" alt="faridabd png">
                                                         </div>
@@ -1079,7 +1078,7 @@ if (!$city) {
                                                 </li>
 
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/gurgaon" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/Gurgaon.webp" alt="Gurgaon png">
                                                         </div>
@@ -1089,7 +1088,7 @@ if (!$city) {
                                                 </li>
 
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/ghaziabad" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/ghaziabad.png" alt="ghaziabad png">
                                                         </div>
@@ -1099,7 +1098,7 @@ if (!$city) {
                                                 </li>
 
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/chandigarh" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/chandigarh.png" alt="chandigarh png">
                                                         </div>
@@ -1109,7 +1108,7 @@ if (!$city) {
                                                 </li>
 
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/bhopal" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/bhopal.png" alt="bhopal png">
                                                         </div>
@@ -1119,7 +1118,7 @@ if (!$city) {
                                                 </li>
 
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/panipat" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/panipat.png" alt="panipat png">
                                                         </div>
@@ -1129,7 +1128,7 @@ if (!$city) {
                                                 </li>
 
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/india" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/india.png" alt="india png">
                                                         </div>
@@ -1139,7 +1138,7 @@ if (!$city) {
                                                 </li>
                                                 
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/pune" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/pune.webp" alt="pune png">
                                                         </div>
@@ -1149,7 +1148,7 @@ if (!$city) {
                                                 </li>
 
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/bahadurharh" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/bahadurgarh.png" alt="bahadurgarh png">
                                                         </div>
@@ -1159,7 +1158,7 @@ if (!$city) {
                                                 </li>
 
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/navimumbai" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/navi-mumbai.png" alt="navi mumbai png">
                                                         </div>
@@ -1169,7 +1168,7 @@ if (!$city) {
                                                 </li>
 
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/hyderabad" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/hyderabad.webp" alt="hyderabad png">
                                                         </div>
@@ -1178,7 +1177,7 @@ if (!$city) {
                                                     </a> 
                                                 </li>
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/patna" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/patna.png" alt="patna png">
                                                         </div>
@@ -1187,7 +1186,7 @@ if (!$city) {
                                                     </a> 
                                                 </li>
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/surat" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/bengaluru.webp" alt="surat png">
                                                         </div>
@@ -1196,7 +1195,7 @@ if (!$city) {
                                                     </a> 
                                                 </li>
                                                 <li class="tab">
-                                                    <a href="https://asknavigator.in/packers-and-movers/dehradun" class="c-flex ali-c ">
+                                                    <a href="#" class="c-flex ali-c ">
                                                         <div class="header-city-img">
                                                             <img src="images/dehradun.webp" alt="dehradun png">
                                                         </div>
@@ -1307,7 +1306,7 @@ if (!$city) {
                                     Get Free Pricing Estimates Now
                                     </div>
                                     <div class="main-form">
-                                        <form id="myForm" action="https://asknavigator.com/user">
+                                        <form id="myForm" action="#">
                                             <div class="tab ">
                                                 <div class="d-flex m20">
                                                     <input type="text" id="re_from" name="re_from" value="<?php echo $city; ?>" autocomplete="off" onchange="pushinfo(this)"
@@ -1360,7 +1359,7 @@ if (!$city) {
                                                 </div>
                 
                                                 <div class="asid-form-review">
-                                                    <img src="images/rating-3-min.png" alt="asknavigator reviewer">
+                                                    <img src="images/rating-3-min.png" alt="packers-movers reviewer">
                                                 </div>
                         
                                             </div>
@@ -1416,8 +1415,8 @@ if (!$city) {
             <section class="ask-process">
                 <div class="container">
                     <div class="sub-container">
-                        <div class="process-main-heading text-c">AskNavigator Process</div>
-                        <div class="proces-sub-cont text-c m-a">With AskNavigator you don't have to Wait or Worry about your Shifting. Now, Sit at Home and let AskNavigator do it all, Just Enjoy the Process.</div>
+                        <div class="process-main-heading text-c">Packers Movers Process</div>
+                        <div class="proces-sub-cont text-c m-a">With Packers Movers you don't have to Wait or Worry about your Shifting. Now, Sit at Home and let Packers Movers do it all, Just Enjoy the Process.</div>
 
 
                         <div class="proc-1-arrow">
@@ -1449,7 +1448,7 @@ if (!$city) {
                                     <path d="M26.4748 42.0697C26.0782 42.9374 25.5132 43.875 24.7799 44.8825C24.0452 45.8474 23.1825 46.8168 22.1919 47.7906C21.2424 48.7203 20.2062 49.6104 19.0832 50.4608C18.0013 51.267 16.915 51.9453 15.8242 52.4957C15.489 52.6782 15.0877 52.799 14.6201 52.858C14.1511 52.8744 13.7636 52.7812 13.4576 52.5784C12.8443 52.1302 12.5242 51.5223 12.4974 50.7548C12.5132 49.9858 12.8548 49.3761 13.5222 48.9259C14.7379 48.2857 15.9492 47.5177 17.156 46.6217C18.4054 45.7242 19.4836 44.8113 20.3904 43.8831C21.3384 42.9108 22.0739 41.9672 22.5969 41.0524C23.1612 40.0935 23.3872 39.2317 23.2751 38.4671C23.1189 37.6614 22.7555 37.0337 22.1848 36.5841C21.614 36.1344 20.9001 35.8605 20.0428 35.7623C19.2281 35.6627 18.2908 35.7168 17.2307 35.9245C16.1692 36.0897 15.1121 36.3828 14.0595 36.8038C13.7213 36.901 13.403 36.9548 13.1045 36.9652C12.8046 36.933 12.5435 36.7927 12.3214 36.5443C11.9639 36.0871 11.6901 35.5844 11.5002 35.036C11.3529 34.4861 11.4645 34.0126 11.8348 33.6155C12.5434 33.1211 13.3143 32.5819 14.1478 31.9977C14.9813 31.4136 15.7493 30.7891 16.4518 30.1242C17.1544 29.4593 17.7062 28.7569 18.1073 28.0171C18.5495 27.2332 18.6918 26.4171 18.5341 25.5688C18.4795 25.2291 18.2567 24.9594 17.8655 24.7596C17.5169 24.5583 17.0853 24.424 16.5706 24.3565C16.0544 24.2465 15.5207 24.2438 14.9693 24.3484C14.4165 24.4104 13.9085 24.5349 13.4454 24.7218C13.197 24.944 12.9251 25.1029 12.6296 25.1986C12.3341 25.2943 12.0371 25.3474 11.7386 25.3578C11.4401 25.3682 11.1828 25.3345 10.9666 25.2567C10.7489 25.1362 10.5945 24.9922 10.5032 24.8246C10.3679 24.6158 10.2722 24.3203 10.2161 23.9381C10.2012 23.5116 10.2959 23.1668 10.5002 22.9035C10.9454 22.2049 11.8223 21.6406 13.1307 21.2107C14.4377 20.7381 16.0117 20.5764 17.8527 20.7256C19.3114 20.9308 20.4196 21.4898 21.1772 22.4026C21.9349 23.3154 22.336 24.4114 22.3807 25.6906C22.4149 26.6713 22.1963 27.7463 21.7248 28.9154C21.2945 30.0405 20.6068 31.1318 19.6618 32.1894C20.8513 32.0198 21.9225 32.1318 22.8755 32.5255C23.8285 32.9191 24.6169 33.4893 25.2407 34.236C26.1307 35.2722 26.7076 36.5115 26.9715 37.9538C27.2353 39.3962 27.0698 40.7681 26.4748 42.0697Z" fill="black"/>
                                 </svg>                                                                      
                                 <div class="proc-cont-heading">They Shift your Luggage</div>
-                                <div class="proc-cont-para">Then vendor packs and shifts your luggage with 100% safety as per AskNavigator’s guidelines, so you don't have to face any problems.</div>
+                                <div class="proc-cont-para">Then vendor packs and shifts your luggage with 100% safety as per Packers Movers guidelines, so you don't have to face any problems.</div>
                             </div>
                         </div>
                         <div class="proc-2-arrow">
@@ -1465,7 +1464,7 @@ if (!$city) {
                 </div>
             </section>
 
-        <!-- ===== asknavigator process close ====== -->
+        <!-- ===== Packers Movers process close ====== -->
 
 
 
@@ -2002,7 +2001,7 @@ if (!$city) {
 
                             <!-- == left 3 why us == -->
                             <div class="left-bar-3">
-                                <div class="color-heading">WHY ASKNAVIGATOR</div>
+                                <div class="color-heading">WHY Packers Movers</div>
                                 <div class="why-terust-heading">The Best Platform to Hire Trusted Packers Movers Online.</div>
 
                                 <div class="why-ask-box r-flex flex-w jut-sb">
@@ -2102,14 +2101,14 @@ if (!$city) {
                                         </div>
 
                                         <div class="why-ask-sun-heading">Smooth Experience</div>
-                                        <div class="why-ask-cont">A smooth experience is all you want for home shifting. Get hassle free home shifting with asknavigator and 24/7 assistance.</div>
+                                        <div class="why-ask-cont">A smooth experience is all you want for home shifting. Get hassle free home shifting with Packers Movers and 24/7 assistance.</div>
                                                                                     
                                     </div>
 
                                     <div class="why-ask-box-item">
 
                                         <div class="why-ask-item-icon">
-                                            <img src="images/lugguge-safty-why-ask.png" alt="luggage safety asknavigator" loading="lazy">
+                                            <img src="images/lugguge-safty-why-ask.png" alt="luggage safety Packers Movers" loading="lazy">
                                         </div>
 
                                         <div class="why-ask-sun-heading">100% Luggage Safety</div>
@@ -2168,7 +2167,7 @@ if (!$city) {
                                         </div>
 
                                         <div class="why-ask-sun-heading">Fast Mover</div>
-                                        <div class="why-ask-cont">We don’t want you to wait for your things mve faster with asknavigator with live tracking of your precious goods.</div>
+                                        <div class="why-ask-cont">We don’t want you to wait for your things mve faster with Packers Movers with live tracking of your precious goods.</div>
                                                                                     
                                     </div>
                                 </div>
@@ -2192,7 +2191,7 @@ if (!$city) {
                                                         <div class="top-ro-reviewr r-flex ali-c jut-sb">
     
                                                             <div class="top-review-left r-flex ali-c">
-                                                                <img src="images/mamber1.png" alt="asknavigator reviwer" loading="lazy">
+                                                                <img src="images/mamber1.png" alt="Packers Movers reviwer" loading="lazy">
                                                                 <div class="topreviewr-name-city c-flex ">
                                                                     <span class="reviver-name">Mohit</span>
                                                                     <span class="reviewr-loc">Gurgaon</span>
@@ -2267,7 +2266,7 @@ if (!$city) {
                                                         <div class="top-ro-reviewr r-flex ali-c jut-sb">
     
                                                             <div class="top-review-left r-flex ali-c">
-                                                                <img src="images/mamber2.png" alt="asknavigator reviwer" loading="lazy">
+                                                                <img src="images/mamber2.png" alt="Packers Movers reviwer" loading="lazy">
                                                                 <div class="topreviewr-name-city c-flex ">
                                                                     <span class="reviver-name">Gita</span>
                                                                     <span class="reviewr-loc">Delhi</span>
@@ -2353,7 +2352,7 @@ if (!$city) {
                                                         <div class="top-ro-reviewr r-flex ali-c jut-sb">
     
                                                             <div class="top-review-left r-flex ali-c">
-                                                                <img src="images/mamber4.png" alt="asknavigator reviwer" loading="lazy">
+                                                                <img src="images/mamber4.png" alt="Packers Movers reviwer" loading="lazy">
                                                                 <div class="topreviewr-name-city c-flex ">
                                                                     <span class="reviver-name">Rohit</span>
                                                                     <span class="reviewr-loc">Faridabad</span>
@@ -2427,7 +2426,7 @@ if (!$city) {
                                                         <div class="top-ro-reviewr r-flex ali-c jut-sb">
     
                                                             <div class="top-review-left r-flex ali-c">
-                                                                <img src="images/mamber5.png" alt="asknavigator reviwer" loading="lazy">
+                                                                <img src="images/mamber5.png" alt="Packers Movers reviwer" loading="lazy">
                                                                 <div class="topreviewr-name-city c-flex ">
                                                                     <span class="reviver-name">Vinay</span>
                                                                     <span class="reviewr-loc">Noida</span>
@@ -2519,7 +2518,7 @@ if (!$city) {
                                                         <div class="top-ro-reviewr r-flex ali-c jut-sb">
     
                                                             <div class="top-review-left r-flex ali-c">
-                                                                <img src="images/mamber3.png" alt="asknavigator reviwer" loading="lazy">
+                                                                <img src="images/mamber3.png" alt="Packers Movers reviwer" loading="lazy">
                                                                 <div class="topreviewr-name-city c-flex ">
                                                                     <span class="reviver-name">Sakshi</span>
                                                                     <span class="reviewr-loc">Bangalore</span>
@@ -2594,7 +2593,7 @@ if (!$city) {
                                                         <div class="top-ro-reviewr r-flex ali-c jut-sb">
     
                                                             <div class="top-review-left r-flex ali-c">
-                                                                <img src="images/mamber6.png" alt="asknavigator reviwer" loading="lazy">
+                                                                <img src="images/mamber6.png" alt="Packers Movers reviwer" loading="lazy">
                                                                 <div class="topreviewr-name-city c-flex ">
                                                                     <span class="reviver-name">Devender</span>
                                                                     <span class="reviewr-loc">Gurgaon</span>
@@ -2668,7 +2667,7 @@ if (!$city) {
                                                         <div class="top-ro-reviewr r-flex ali-c jut-sb">
     
                                                             <div class="top-review-left r-flex ali-c">
-                                                                <img src="images/mamber1.png" alt="asknavigator reviwer" loading="lazy">
+                                                                <img src="images/mamber1.png" alt="Packers Movers reviwer" loading="lazy">
                                                                 <div class="topreviewr-name-city c-flex ">
                                                                     <span class="reviver-name">Rahul</span>
                                                                     <span class="reviewr-loc">Mumbai</span>
@@ -2754,7 +2753,7 @@ if (!$city) {
                                                         <div class="top-ro-reviewr r-flex ali-c jut-sb">
     
                                                             <div class="top-review-left r-flex ali-c"> 
-                                                                <img src="images/mamber4.png" alt="asknavigator reviwer" loading="lazy">
+                                                                <img src="images/mamber4.png" alt="Packers Movers reviwer" loading="lazy">
                                                                 <div class="topreviewr-name-city c-flex ">
                                                                     <span class="reviver-name">Vikash</span>
                                                                     <span class="reviewr-loc">Chandigarh</span>
@@ -2863,27 +2862,27 @@ if (!$city) {
                                             <div class="swiper-wrapper r-flex ali-c">
                                             
                                                 <!-- <div class="swiper-slide part-com-name r-flex ali-c jut-sa">
-                                                      <img src="images/partner1.png" alt="packers and movers best partner asknavigator">
-                                                      <img src="images/partner1.png" alt="packers and movers best partner asknavigator">
-                                                      <img src="images/partner1.png" alt="packers and movers best partner asknavigator">
+                                                      <img src="images/partner1.png" alt="packers and movers best partner Packers Movers">
+                                                      <img src="images/partner1.png" alt="packers and movers best partner Packers Movers">
+                                                      <img src="images/partner1.png" alt="packers and movers best partner Packers Movers">
                                                 </div> -->
                                                 <div class="swiper-slide partner-company-box r-flex ali-c">
-                                                  <img src="images/partner1.png" alt="packers and movers best partner asknavigator" loading="lazy">
-                                                  <img src="images/partner2.png" alt="packers and movers best partner asknavigator" loading="lazy">
+                                                  <img src="images/partner1.png" alt="packers and movers best partner Packers Movers" loading="lazy">
+                                                  <img src="images/partner2.png" alt="packers and movers best partner Packers Movers" loading="lazy">
                                                 </div>
   
                                                   <div class="swiper-slide partner-company-box r-flex ali-c">
-                                                      <img src="images/partner4.png" alt="packers and movers best partner asknavigator" loading="lazy">
-                                                      <img src="images/partner1.png" alt="packers and movers best partner asknavigator" loading="lazy">
+                                                      <img src="images/partner4.png" alt="packers and movers best partner Packers Movers" loading="lazy">
+                                                      <img src="images/partner1.png" alt="packers and movers best partner Packers Movers" loading="lazy">
                                                   </div>
                                            
                                                   <div class="swiper-slide partner-company-box r-flex ali-c">
-                                                      <img src="images/partner5.png" alt="packers and movers best partner asknavigator" loading="lazy">
-                                                      <img src="images/partner3.png" alt="packers and movers best partner asknavigator" loading="lazy">
+                                                      <img src="images/partner5.png" alt="packers and movers best partner Packers Movers" loading="lazy">
+                                                      <img src="images/partner3.png" alt="packers and movers best partner Packers Movers" loading="lazy">
                                                   </div>
                                                   <div class="swiper-slide partner-company-box r-flex ali-c">
-                                                      <img src="images/partner4.png" alt="packers and movers best partner asknavigator" loading="lazy">
-                                                      <img src="images/partner2.png" alt="packers and movers best partner asknavigator" loading="lazy">
+                                                      <img src="images/partner4.png" alt="packers and movers best partner Packers Movers" loading="lazy">
+                                                      <img src="images/partner2.png" alt="packers and movers best partner Packers Movers" loading="lazy">
                                                   </div>
   
                                                 
@@ -2901,18 +2900,18 @@ if (!$city) {
                             <div class="left-faq-sec">
                                 <!-- <div class="container"> -->
                                     <div class="faq-hading-sec text-c">FAQ’s</div>
-                                    <div class="sub-hading-sec text-c">Everything Need to know about AskNavigator. Have more questions contact us to know more about AskNavigator.</div>
+                                    <div class="sub-hading-sec text-c">Everything Need to know about Packers Movers. Have more questions contact us to know more about Packers Movers.</div>
                                     <div class="accordion">
                                       <div class="accordion-item">
-                                        <button id="accordion-button-1" aria-expanded="true"><span class="accordion-title">Why should I trust Asknavigator?</span><span class="icon" aria-hidden="true"></span></button>
+                                        <button id="accordion-button-1" aria-expanded="true"><span class="accordion-title">Why should I trust Packers Movers?</span><span class="icon" aria-hidden="true"></span></button>
                                         <div class="accordion-content">
-                                          <p>Asknavigator has completed 15800+ shiftings in 2 years. The customer satisfaction percentage goes upto 98.2%. We are very selective in finding and onboarding any packer and mover; first, we verify them through document verification, personal visit, and so on. Our packers and movers have to fulfill 3 requirements to work with us: Affordability, Safety, and Quality services before working with us. There will be transparency in shifting deals, and you will receive the details of packers and movers near you. The conversation between you and the packers and movers will stay private. For Asknavigator, Customer satisfaction is of utmost priority.</p>
+                                          <p>Packers Movers has completed 15800+ shiftings in 2 years. The customer satisfaction percentage goes upto 98.2%. We are very selective in finding and onboarding any packer and mover; first, we verify them through document verification, personal visit, and so on. Our packers and movers have to fulfill 3 requirements to work with us: Affordability, Safety, and Quality services before working with us. There will be transparency in shifting deals, and you will receive the details of packers and movers near you. The conversation between you and the packers and movers will stay private. For Packers Movers, Customer satisfaction is of utmost priority.</p>
                                         </div>
                                       </div>
                                       <div class="accordion-item">
-                                        <button id="accordion-button-2" aria-expanded="false"><span class="accordion-title">Does Asknavigator charge for their service?</span><span class="icon" aria-hidden="true"></span></button>
+                                        <button id="accordion-button-2" aria-expanded="false"><span class="accordion-title">Does Packers Movers charge for their service?</span><span class="icon" aria-hidden="true"></span></button>
                                         <div class="accordion-content">
-                                          <p>No, Asknavigator doesn’t charge any money. Our service is FREE of Cost.</p>
+                                          <p>No, Packers Movers doesn’t charge any money. Our service is FREE of Cost.</p>
                                         </div>
                                       </div>
                                       <div class="accordion-item">
@@ -2924,7 +2923,7 @@ if (!$city) {
                                       <div class="accordion-item">
                                         <button id="accordion-button-4" aria-expanded="false"><span class="accordion-title">How do the best packers movers in India offer their services?</span><span class="icon" aria-hidden="true"></span></button>
                                         <div class="accordion-content">
-                                          <p>Asknavigator's packers and movers are very experienced and sincere in their work. They have strict and standard procedures to complete the shifting work safely and smoothly.
+                                          <p>Packers Movers's packers and movers are very experienced and sincere in their work. They have strict and standard procedures to complete the shifting work safely and smoothly.
                                             <br><br>
                                             1.) They understand your shifting requirements carefully.
                                             <br>
@@ -2941,14 +2940,14 @@ if (!$city) {
                                             7.) You get quality service at affordable prices.
                                             <br>
                                             <br>
-                                            And the good thing is that the best packers and movers are working with Asknavigator. They are just waiting for your call.
+                                            And the good thing is that the best packers and movers are working with Packers Movers. They are just waiting for your call.
                                         </p>
                                         </div>
                                       </div>
                                       <div class="accordion-item">
                                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">Do packers movers charge for pre-moving surveys?</span><span class="icon" aria-hidden="true"></span></button>
                                         <div class="accordion-content">
-                                          <p>Asknavigator's packers and movers in India offer FREE pre-moving surveys (If necessary). The survey aims to identify the quantity and type of luggage you have and plan accordingly to complete the shifting safely. It is also essential for you to get the exact pricing before shifting.</p>
+                                          <p>Packers Movers's packers and movers in India offer FREE pre-moving surveys (If necessary). The survey aims to identify the quantity and type of luggage you have and plan accordingly to complete the shifting safely. It is also essential for you to get the exact pricing before shifting.</p>
                                         </div>
                                       </div>
                                       <div class="accordion-item">
@@ -2974,7 +2973,7 @@ if (!$city) {
                                     
                                     <div class="sty-form-heading">Get Free Pricing Estimates Now</div>
 
-                                    <form id="myForm" action="https://asknavigator.com/user">
+                                    <form id="myForm" action="#">
                                         <div class="tab ">
                                             <div class="d-flex m20">
                                                 <input type="text" id="re_from" name="re_from" value="<?php echo $city; ?>" autocomplete="off" onchange="pushinfo(this)"
@@ -3025,7 +3024,7 @@ if (!$city) {
                                             </div>
             
                                             <div class="asid-form-review">
-                                                <img src="images/rating-3-min.png" alt="asknavigator reviewer">
+                                                <img src="images/rating-3-min.png" alt="Packers Movers reviewer">
                                             </div>
                     
                                         </div>
@@ -3054,7 +3053,7 @@ if (!$city) {
                             <img src="images/citis-barner.png" alt="">
                         </div>
                         <div class="charges-cont">
-                            <p>Asknavigator provides Quality service and best packers movers near your area in most affordable price. In case you want more detail then, let us tell you the cost of hiring packers and movers in <?php echo $city; ?> can depends on various factors such as the distance of the move, the quantity and type of items being moved, and the services required. On average, the cost can range anywhere from 4000-20,000 INR for a local move within <?php echo $city; ?>, and up to 30,000 INR or more for a long-distance like move out of the city. It's recommended to get quotes from multiple movers to compare prices and ensure you're getting a fair deal. Don’t worry asknavigator do it all for you just contact us and get different quotation from verified movers.</p>
+                            <p>Packers Movers provides Quality service and best packers movers near your area in most affordable price. In case you want more detail then, let us tell you the cost of hiring packers and movers in <?php echo $city; ?> can depends on various factors such as the distance of the move, the quantity and type of items being moved, and the services required. On average, the cost can range anywhere from 4000-20,000 INR for a local move within <?php echo $city; ?>, and up to 30,000 INR or more for a long-distance like move out of the city. It's recommended to get quotes from multiple movers to compare prices and ensure you're getting a fair deal. Don’t worry Packers Movers do it all for you just contact us and get different quotation from verified movers.</p>
                         </div>
                     </div>
                 </div>
@@ -3156,7 +3155,7 @@ if (!$city) {
                         <div class="call-mail-Head">Get in touch today!</div>
                         <div class="mia-mail-side r-flex ali-c jut-sb">
 
-                            <a href="mailto:contact@asknavigator.com" class="mail-left-side r-flex ali-c jut-sb ">
+                            <a href="#" class="mail-left-side r-flex ali-c jut-sb ">
                                 <div class="r-flex ali-c ">
                                     <svg width="49" height="49" viewBox="0 0 49 49" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect width="49" height="49" rx="16" fill="#412FAD"/>
@@ -3165,7 +3164,7 @@ if (!$city) {
                                     </svg>                                        
                                     <span class="Mail-Us">Mail Us</span>
                                 </div>
-                                <span class="left-mail">Contact@asknavigator.com</span>
+                                <span class="left-mail">Packers Movers</span>
                             </a>
 
                             <a href="tel:+918570006807" class="mail-left-side r-flex ali-c jut-sb"  onclick="gtag_report_conversion();">
@@ -3207,16 +3206,16 @@ if (!$city) {
                                 <path d="M45.344 33.12C46.016 33.12 46.592 33.36 47.072 33.84C47.552 34.3093 47.792 34.8853 47.792 35.568C47.792 36.24 47.552 36.816 47.072 37.296C46.592 37.7653 46.016 38 45.344 38H40.576V35.968H45.344C45.4613 35.968 45.5573 35.9307 45.632 35.856C45.7173 35.7707 45.76 35.6747 45.76 35.568C45.76 35.4507 45.7173 35.3547 45.632 35.28C45.5573 35.1947 45.4613 35.152 45.344 35.152H43.024C42.352 35.152 41.776 34.912 41.296 34.432C40.816 33.952 40.576 33.376 40.576 32.704C40.576 32.032 40.816 31.456 41.296 30.976C41.776 30.496 42.352 30.256 43.024 30.256H46.832V32.304H43.024C42.9067 32.304 42.8053 32.3467 42.72 32.432C42.6453 32.5067 42.608 32.6027 42.608 32.72C42.608 32.8267 42.6453 32.9227 42.72 33.008C42.8053 33.0827 42.9067 33.12 43.024 33.12H45.344ZM53.5315 34.992L56.2835 38H53.5315L52.0275 36.368C51.4728 35.76 51.1315 35.216 51.0035 34.736V38H48.9715V26.864H51.0035V33.296C51.1315 32.8587 51.4728 32.3147 52.0275 31.664L53.1475 30.256H55.7555L53.5955 32.944C53.3182 33.2747 53.1368 33.5093 53.0515 33.648C52.9768 33.776 52.9395 33.8987 52.9395 34.016C52.9395 34.0907 52.9448 34.1547 52.9555 34.208C52.9662 34.2613 53.0142 34.3573 53.0995 34.496C53.1955 34.624 53.3395 34.7893 53.5315 34.992Z" fill="black"/>
                             </svg>                                
                         </a>
-                         <div class="footer__con">AskNavigator is the best platform to Hire the Most Trusted & Affordable Packers and Movers for all types of shifting requirements.</div>
+                         <div class="footer__con">Packers Movers is the best platform to Hire the Most Trusted & Affordable Packers and Movers for all types of shifting requirements.</div>
                          <ul class="footer__social-icons">
                             <li>
-                                <a href="https://www.facebook.com/Asknavigator/">
+                                <a href="#">
                                     <svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path fill-rule="evenodd" clip-rule="evenodd" d="M0 12.5698C0 18.7844 4.51354 23.9521 10.4167 25V15.9719H7.29167V12.5H10.4167V9.72187C10.4167 6.59687 12.4302 4.86146 15.2781 4.86146C16.1802 4.86146 17.1531 5 18.0552 5.13854V8.33333H16.4583C14.9302 8.33333 14.5833 9.09687 14.5833 10.0698V12.5H17.9167L17.3615 15.9719H14.5833V25C20.4865 23.9521 25 18.7854 25 12.5698C25 5.65625 19.375 0 12.5 0C5.625 0 0 5.65625 0 12.5698Z" fill="#4146ad"/>
                                     </svg>                                        
                                 </a>
                             </li>
-                            <li><a href="https://twitter.com/asknavigatorindia">
+                            <li><a href="#">
                                     <svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M12 0C5.37321 0 0 5.5971 0 12.5C0 19.4029 5.37321 25 12 25C18.6268 25 24 19.4029 24 12.5C24 5.5971 18.6268 0 12 0ZM17.767 9.42243C17.775 9.55357 17.775 9.69029 17.775 9.82422C17.775 13.9202 14.7804 18.6384 9.30804 18.6384C7.62054 18.6384 6.05625 18.1278 4.73839 17.2489C4.97946 17.2768 5.20982 17.2879 5.45625 17.2879C6.84911 17.2879 8.12946 16.7969 9.15 15.9654C7.84286 15.9375 6.74464 15.0446 6.36964 13.817C6.82768 13.8867 7.24018 13.8867 7.71161 13.7612C7.03855 13.6187 6.43359 13.238 5.99951 12.6835C5.56542 12.1291 5.32898 11.4353 5.33036 10.7199V10.6808C5.72411 10.9124 6.1875 11.0547 6.67232 11.0742C6.26476 10.7913 5.93051 10.408 5.69923 9.95823C5.46794 9.50851 5.34676 9.00628 5.34643 8.49609C5.34643 7.91853 5.49107 7.39118 5.75089 6.93359C6.49795 7.89156 7.43017 8.67506 8.48696 9.23316C9.54375 9.79126 10.7015 10.1115 11.8848 10.173C11.4643 8.06641 12.975 6.36161 14.7911 6.36161C15.6482 6.36161 16.4196 6.73549 16.9634 7.33817C17.6357 7.20703 18.2786 6.94475 18.8518 6.59319C18.6295 7.31027 18.1634 7.91574 17.5446 8.29799C18.1446 8.23103 18.7232 8.05804 19.2589 7.81529C18.8545 8.43471 18.3482 8.98438 17.767 9.42243V9.42243Z" fill="#4146ad"/>
                                     </svg> 
@@ -3230,7 +3229,7 @@ if (!$city) {
                                 </a>
                             </li>
                             <li>
-                                <a href="https://instagram.com/asknavigator">
+                                <a href="#">
                                     <svg width="23" height="24" viewBox="0 0 23 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M11.4969 7.9983C9.38527 7.9983 7.66201 9.79651 7.66201 12C7.66201 14.2035 9.38527 16.0017 11.4969 16.0017C13.6085 16.0017 15.3318 14.2035 15.3318 12C15.3318 9.79651 13.6085 7.9983 11.4969 7.9983ZM22.9987 12C22.9987 10.3429 23.0131 8.70077 22.9239 7.04665C22.8347 5.12536 22.4147 3.4202 21.0683 2.01525C19.7191 0.607302 18.0879 0.172009 16.2467 0.0789456C14.6586 -0.0141172 13.085 0.000892936 11.4998 0.000892936C9.91174 0.000892936 8.33808 -0.0141172 6.75292 0.0789456C4.91171 0.172009 3.27763 0.610305 1.93125 2.01525C0.581988 3.42321 0.164838 5.12536 0.0756548 7.04665C-0.0135288 8.70377 0.000855714 10.3459 0.000855714 12C0.000855714 13.6541 -0.0135288 15.2992 0.0756548 16.9533C0.164838 18.8746 0.584864 20.5798 1.93125 21.9847C3.28051 23.3927 4.91171 23.828 6.75292 23.9211C8.34096 24.0141 9.91462 23.9991 11.4998 23.9991C13.0878 23.9991 14.6615 24.0141 16.2467 23.9211C18.0879 23.828 19.7219 23.3897 21.0683 21.9847C22.4176 20.5768 22.8347 18.8746 22.9239 16.9533C23.016 15.2992 22.9987 13.6571 22.9987 12V12ZM11.4969 18.1572C8.23164 18.1572 5.59641 15.4073 5.59641 12C5.59641 8.5927 8.23164 5.84284 11.4969 5.84284C14.7622 5.84284 17.3974 8.5927 17.3974 12C17.3974 15.4073 14.7622 18.1572 11.4969 18.1572ZM17.6391 7.02864C16.8767 7.02864 16.261 6.38621 16.261 5.59067C16.261 4.79513 16.8767 4.1527 17.6391 4.1527C18.4014 4.1527 19.0171 4.79513 19.0171 5.59067C19.0173 5.77957 18.9818 5.96667 18.9127 6.14124C18.8435 6.31581 18.742 6.47442 18.614 6.608C18.486 6.74157 18.334 6.84748 18.1667 6.91967C17.9994 6.99185 17.8201 7.02888 17.6391 7.02864V7.02864Z" fill="#4146ad"/>
                                     </svg>                                        
@@ -3239,12 +3238,12 @@ if (!$city) {
                          </ul>
 
                          <div class="footer-contect-mail-call c-flex ">
-                            <a class="r-flex ali-c foot-mail-cal" href="mailto:contact@asknavigator.com">
+                            <a class="r-flex ali-c foot-mail-cal" href="#">
                                 <svg width="22" height="23" viewBox="0 0 22 23" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M3.66671 4.16699H18.3334C19.3417 4.16699 20.1667 4.99199 20.1667 6.00033V17.0003C20.1667 18.0087 19.3417 18.8337 18.3334 18.8337H3.66671C2.65837 18.8337 1.83337 18.0087 1.83337 17.0003V6.00033C1.83337 4.99199 2.65837 4.16699 3.66671 4.16699Z" stroke="#4146ad" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                                     <path d="M20.1666 6L11 12.4167L1.83331 6" stroke="#5236FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                                 </svg>                                    
-                                <span>Contact@asknavigator.com</span>
+                                <span>Contact@Packers Movers.com</span>
                             </a>
                             <a class="r-flex ali-c foot-mail-cal" href="tel:+91 8570006807"  onclick="gtag_report_conversion();">
                                 <svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -3273,13 +3272,13 @@ if (!$city) {
                                      
                                </h3>
                                <ul class="paragraph">
-                                  <li><a href="https://asknavigator.in/packers-and-movers/delhi ">Delhi</a></li>
-                                  <li><a href="https://asknavigator.in/packers-and-movers/bangalore">Bangalore</a></li>
-                                  <li><a href="https://asknavigator.in/packers-and-movers/gurgaon">Gurgaon</a></li>
-                                  <li><a href="https://asknavigator.in/packers-and-movers/hyderbad">Hyderabad</a></li>
-                                  <li><a href="https://asknavigator.in/packers-and-movers/mumbai">Mumbai</a></li>
-                                  <li><a href="asknavigator.in/packers-and-movers/faridabad">Faridabd</a></li>
-                                  <li><a href="asknavigator.in/packers-and-movers/noida">Noida</a></li>
+                                  <li><a href="#">Delhi</a></li>
+                                  <li><a href="#">Bangalore</a></li>
+                                  <li><a href="#">Gurgaon</a></li>
+                                  <li><a href="#">Hyderabad</a></li>
+                                  <li><a href="#">Mumbai</a></li>
+                                  <li><a href="#">Faridabd</a></li>
+                                  <li><a href="#">Noida</a></li>
                                </ul>
                             </div>
 
@@ -3292,13 +3291,13 @@ if (!$city) {
                                      
                                </h3>
                                <ul class="paragraph">
-                                  <li><a href="https://asknavigator.com/about-us/">About Us</a></li>
-                                  <li><a href="https://asknavigator.com/contact-us/">Contact Us</a></li>
-                                  <li><a href="https://asknavigator.com/terms-for-businesses/">Complaint</a></li>
-                                  <li><a href="https://asknavigator.com/complaint-box/">AskNavigator Reviews</a></li>
+                                  <li><a href="#">About Us</a></li>
+                                  <li><a href="#">Contact Us</a></li>
+                                  <li><a href="#">Complaint</a></li>
+                                  <li><a href="#">Packers Movers Reviews</a></li>
                                   <li><a href="#">Terms of Service</a></li>
-                                  <li><a href="https://asknavigator.com/terms-for-businesses/">Privacy Policy</a></li>
-                                  <li><a href="https://asknavigator.com/terms-for-businesses/">Disclaimer</a></li>
+                                  <li><a href="#">Privacy Policy</a></li>
+                                  <li><a href="#">Disclaimer</a></li>
 
 
 
@@ -3314,11 +3313,11 @@ if (!$city) {
                                      
                                </h3>
                                <ul class="paragraph">
-                                  <li><a href="https://asknavigator.com/faqs/">FAQ’s</a></li>
-                                  <li><a href="https://asknavigator.com/blog/">Blog</a></li>
-                                  <li><a href="https://asknavigator.com/blog-safty-guides/">Career/Jobs</a></li>
-                                  <li><a href="https://asknavigator.com/sitemap/">Sitemap</a></li>
-                                  <li><a href="https://asknavigator.com/advertise-with-asknavigator/">Advertise with Us</a></li>
+                                  <li><a href="#">FAQ’s</a></li>
+                                  <li><a href="#">Blog</a></li>
+                                  <li><a href="#">Career/Jobs</a></li>
+                                  <li><a href="#">Sitemap</a></li>
+                                  <li><a href="#">Advertise with Us</a></li>
                                </ul> 
                             </div>
                          </div>
@@ -3328,7 +3327,7 @@ if (!$city) {
                 <div class="copyright jut-sb">
                    <div class="copyright__left">Made with ❤️ in INDIA</div>
                    <div class="copyright__middle">
-                      Copyright © 2023 AskNavigator. All Rights Reserved.
+                      Copyright © 2023 Packers Movers. All Rights Reserved.
                    </div>
                 </div>
              </footer>
@@ -3454,7 +3453,7 @@ if (!$city) {
 
         var log = message => console.log(message);
 
-        const API_URL = "https://api.asknavigator.com/user";
+        // const API_URL = "https://api.asknavigator.com/user";
         var customFetch = async (url, data) => {
 
             let result = await fetch(url, {
@@ -3536,7 +3535,7 @@ if (!$city) {
         user.data.collect = '<?php echo $city; ?>';
         user.data.ref = document.referrer;
     </script>
-    <script src="https://api.asknavigator.com/mailer/handler.js?v=0.0.6"></script>
+    <!-- <script src="https://api.asknavigator.com/mailer/handler.js?v=0.0.6"></script> -->
 
     <!-- ============ java script close ======= -->
 <!-- Event snippet for Called/Get Number conversion page
