@@ -1306,7 +1306,7 @@ if (!$city) {
                                     Get Free Pricing Estimates Now
                                     </div>
                                     <div class="main-form">
-                                        <form id="myForm" action="slack.php">
+                                        <form id="myForm" action="slack">
                                             <div class="tab ">
                                                 <div class="d-flex m20">
                                                     <input type="text" id="re_from" name="re_from" value="<?php echo $city; ?>" autocomplete="off" onchange="pushinfo(this)"
