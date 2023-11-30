@@ -29,9 +29,9 @@ if (isset($_GET['phone'])) {
 }
 
 
-// header("Location: https://www.shiftingway.com/user?q=".$pageid);
+header("Location: https://packers-movers.xyz/?q=".$pageid);
 
-$url = "https://hooks.slack.com/services/T01QMA9UN1J/B052CTT20N/jDAgNTzR81XSRjMELYt8"; // Replace with your own webhook URL
+$url = "https://hooks.slack.com/services/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"; // Replace with your own webhook URL
 $data = array(
     "text" => "*New message from* ".$name. "\n".
               "Phone number: ".$phone. "\n".
@@ -54,7 +54,7 @@ if ($result === false) {
     echo "The message has been sent to Slack.";
 };
 
- header("Location: https://www.shiftingway.com/user?q=".$pageid);
+ header("Location: https://packers-movers.xyz/?q".$pageid);
 
 
 ?>
