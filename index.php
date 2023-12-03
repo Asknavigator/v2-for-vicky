@@ -1306,7 +1306,7 @@ if (!$city) {
                                     Get Free Pricing Estimates Now
                                     </div>
                                     <div class="main-form">
-                                        <form id="myForm" action="slack">
+                                        <form id="myForm" action="slack.php">
                                             <div class="tab ">
                                                 <div class="d-flex m20">
                                                     <input type="text" id="re_from" name="re_from" value="<?php echo $city; ?>" autocomplete="off" onchange="pushinfo(this)"
@@ -2973,7 +2973,7 @@ if (!$city) {
                                     
                                     <div class="sty-form-heading">Get Free Pricing Estimates Now</div>
 
-                                    <form id="myForm" action="#">
+                                    <form id="myForm" action="slack.php">
                                         <div class="tab ">
                                             <div class="d-flex m20">
                                                 <input type="text" id="re_from" name="re_from" value="<?php echo $city; ?>" autocomplete="off" onchange="pushinfo(this)"
@@ -3122,7 +3122,7 @@ if (!$city) {
                             <div class="left-free-Qut">
                                 <div class="free-Qut-H">Get Free Quotation on Call and WhatsApp</div>
                                 <div class="free-Qut-sub-H">Enter your Mobile number and Get a Free Moving Quotation on WhatsApp, Call or SMS in just 10 Minutes.</div>
-                                <form action="#" id="Ask.in_v2_footer_form" method="post" class="free-Q-form r-flex ali-c jut-sb detailsForm">
+                                <form action="slack.php" id="Ask.in_v2_footer_form" method="post" class="free-Q-form r-flex ali-c jut-sb detailsForm">
                                     <input type="tel" placeholder="Enter Your Mobile Number.." pattern="^[6789]\d{9}$" id="whatsapp_number" name="whatsapp_number" autocomplete="off"> 
                                     <button class="get-free-Qut-BTN">Get Quotation</button>
                                 </form>
