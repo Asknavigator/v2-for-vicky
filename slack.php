@@ -27,7 +27,7 @@ if (isset($_GET['phone'])) {
     $result = file_get_contents($url, false, $context);
 
     if ($result === false) {
-        echo "Error: The message was not sent to Slack.";
+        echo "https://www.shiftingway.com";
     } else {
         echo "Message sent to Slack successfully.";
     }
