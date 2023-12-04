@@ -31,7 +31,7 @@ if (isset($_GET['phone'])) {
 
 header("Location: https://packers-movers.xyz/?q=".$pageid);
 
-$url = "https://hooks.slack.com/services/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"; // Replace with your own webhook URL
+$url = "https://hooks.slack.com/services/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"; // Replace with your own webhook URL
 $data = array(
     "text" => "*New message from* ".$name. "\n".
               "Phone number: ".$phone. "\n".
